@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### ✨ zeroseoS2
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroseoS2&show_icons=true&theme=dark)
